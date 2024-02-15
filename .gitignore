@@ -1,0 +1,36 @@
+# Node.js / TypeScript specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+# Node.js
+/node_modules
+
+# Typescript
+*.tsbuildinfo
+
+# Compiled output
+dist/
+*.js
+*.d.ts
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
